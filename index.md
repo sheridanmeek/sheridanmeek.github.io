@@ -10,11 +10,9 @@ title: Analysis of Economic Data
 
 ## Contact Information 
 
-Paul Beaumont<br/>
-Department of Economics<br/>
+Sheridan Meek <br/>
+Master's in Applied Economics Student <br/>
 Florida State University <br/>
 Tallahassee, Florida, 32306 <br/>
 
-[Email:beaumont@fsu.edu](mailto:beaumont@fsu.edu)
-
-[Web Page:](https://paulmbeaumont.netlify.app/)
+[Email:slm17@my.fsu.edu](mailto:slm17@my.fsu.edu)
